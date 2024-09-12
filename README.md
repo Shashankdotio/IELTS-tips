@@ -1,5 +1,5 @@
 # IELTS-tips 
-### in progress, brb in 5 days...
+### in progress... giving my exam on 14th, will post a review soon...
 full course:
 >https://www.youtube.com/watch?v=Jzps8q2es7cv
 
