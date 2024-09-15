@@ -28,7 +28,16 @@ Throughout the week, I watched IELTS mock interviews to get accustomed to the vo
 
 ---
 
-#### Step 3: Expanding Vocabulary
+#### Step 3: Referring to Band 9 Essays
+
+A day before the exam, I went through a few Band 9 model essays to better understand the structure, tone, and vocabulary that would help me achieve a high score in the writing section.
+
+**Band 9 Essays PDF:**
+> [IELTS-Writing-Band-9-Essays.pdf](IELTS-Writing-Band-9-Essays.pdf)
+
+---
+
+#### Step 4: Expanding Vocabulary
 
 Additionally, I utilized IELTS flashcards from apps like Magoosh to enhance my vocabulary. These apps offer a wide range of words that can significantly improve your speaking and writing skills.
 
@@ -37,7 +46,7 @@ Additionally, I utilized IELTS flashcards from apps like Magoosh to enhance my v
 
 ---
 
-#### Step 4: Key Points & Sentences
+#### Step 5: Key Points & Sentences
 
 A day or two before the exam, I decided to prepare some key points and versatile sentences that could be used in any essay or even during the speaking test. Since I was short on time, I didn’t aim for high-level English vocabulary, but rather focused on practical phrases. Here's a snapshot of my notes:
 
@@ -51,9 +60,9 @@ _Task 1 - Intro:_
 - **(If asked about passport):**
   - Here is my passport which I used for registration, please take a look at it.
 - **(What is your full name):**
-  - My full name is Bruce Wayne, please call me by my first name, Bruce.
+  - My full name is Shashank Kamble, please call me by my first name, Shashank.
 
-- I live in Mumbai along with my parents. We are a family of four members. My father is a Business man, and my mother works at the PRESS. I have a younger sister; she is in the 3rd grade.
+- I live in Mumbai along with my parents. We are a family of four members. My father is a Government officer, and my mother works at the radio. I have a younger sister; she is in the 3rd grade.
   
 - I am studying Computer Science at the University of Mumbai. I plan to pursue a Master’s degree in the United States or the UK, with a focus on Data Science.
 
