@@ -132,7 +132,7 @@ In my opinion, many students find **reading** difficult. If you're proficient in
 
 **If you have any doubts, feel free to DM me on my socials:**  
 - Instagram: [@shashaaannk](https://www.instagram.com/shashaaannk)  
-- LinkedIn: [Shashankkamble97](https://www.linkedin.com/in/shashankkamble97/))
+- LinkedIn: [Shashankkamble97](https://www.linkedin.com/in/shashankkamble97/)
 
 ---
 
