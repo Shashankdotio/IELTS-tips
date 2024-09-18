@@ -42,7 +42,8 @@ A day before the exam, I went through a few **Band 9 model essays** to better un
 To enhance my vocabulary, I used **IELTS flashcards** from apps like Magoosh. These apps offer a wide range of words that can significantly improve your speaking and writing skills.
 
 **Useful apps:**
-- Magoosh IELTS Flashcards
+- [Magoosh IELTS Flashcards (Appstore)](https://apps.apple.com/us/app/vocabulary-flashcards-ielts/id1125546528)
+- [Magoosh IELTS Flashcards (WEB)](https://ielts.magoosh.com/flashcards/vocabulary/decks)
 
 ---
 
