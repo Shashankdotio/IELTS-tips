@@ -52,63 +52,9 @@ To enhance my vocabulary, I used **IELTS flashcards** from apps like Magoosh. Th
 A day or two before the exam, I prepared some **key points** and versatile **sentences** that could be used in any essay or speaking task. Here's a snapshot of my notes:
 
 ---
-
-#### **IELTS Speaking Tips** 
-
-- **Task 1 - Intro:**
-  - *If asked about passport:*  
-    *Here is my passport which I used for registration, please take a look at it.*
-  - *What is your full name:*  
-    *My full name is Bruce Wayne, please call me by my first name, Bruce.*
-
-- *I live in Mumbai along with my parents. We are a family of four members. My father is a Businessman, and my mother works at the PRESS. I have a younger sister; she is in the 3rd grade.*
-
-- *I am studying Computer Science at the University of Mumbai and plan to pursue a Master’s degree in Data Science from the US or UK.*
-
-- **Extra:**  
-  *Apart from studies, I enjoy video editing and graphics. I also love playing cricket and swimming, both of which have been my favorite sports since school.*
-
----
-
-#### **IELTS Writing Tips**
-
-- **Introduction:**
-  - *It is undeniable that ___(insert problem from question)*  
-  - *In the modern world, ___(insert problem from question)*  
-  - *It is often argued that___*  
-  - *In recent years, there has been a growing debate about___*
-
-- **Body:**
-  - *However, it should not be forgotten that (opposing point)…*  
-  - *For example, a recent study by _________ showed…*  
-  - *Additionally, _____ has proven to be…*  
-
-- **Conclusion:**
-  - *As such, it can be concluded that…*  
-  - *All things considered…*
-
----
-
-### 📚 **Vocabulary for Writing**
-- *Humility, Modest* (Humbleness)  
-- *Emphasise* (special importance)  
-- *Notion* (a belief/idea)  
-- *Debate* (formal argument)  
-- *Gratify* (happy)  
-- *Vital* (important)  
-- *Significant* (huge)  
-- *Immense* (large)  
-- *Plausible* (usable)  
-- *Confined* (within certain limits)  
-- *Technological advancements/evolution/growth*  
-- *Challenges* (difficulties)  
-- *Revolutionise* (transform drastically)  
-- *Plethora* (large amounts/excess)  
-- *Substantial* (real/true, considerable importance)  
-- *Rich* (elite)  
-- *Catastrophic* (disastrous)  
-- *To mitigate* (to solve)  
-- *Contemporary* (modern)
+![alt-text](https://github.com/Shashankdotio/IELTS-tips/blob/main/my-notepad/speaking.png)
+![alt-text](https://github.com/Shashankdotio/IELTS-tips/blob/main/my-notepad/writing.png)
+![alt-text](https://github.com/Shashankdotio/IELTS-tips/blob/main/my-notepad/vocab.png)
 
 ---
 
@@ -123,17 +69,19 @@ My preparation lasted for 5 days, and I scored an **average of 7.5**:
 
 ---
 
-### 💡 **Tips for Focus**
+### 💡 **Key Areas to Focus On**
 
-In my opinion, many students find **reading** difficult. If you're proficient in speaking English, I’d suggest focusing more on **reading** since it can be tricky at times. 
+In my experience, many students find the **reading** section to be challenging. If you're already confident in your English speaking skills, I'd recommend prioritizing **reading** practice, as it can be tricky at times.
 
-**Listening** and **writing** can be improved by giving a few practice tests, and for me, **speaking** was a bit of a hurdle since English isn't my first language. 
+**Listening** and **writing** can be improved through regular practice tests, while **speaking** was a bit of a hurdle for me, as English is not my first language.
+
 
 ---
 
 **If you have any doubts, feel free to DM me on my socials:**  
-- Instagram: [@shashaaannk](https://www.instagram.com/shashaaannk)  
-- LinkedIn: [Shashankkamble97](https://www.linkedin.com/in/shashankkamble97/)
+<p align="left">
+<a href="https://www.linkedin.com/in/shashankkamble97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankkamble97" height="30" width="40" /></a>
+<a href="https://instagram.com/shashaaannk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashaaannk" height="30" width="40" /></a>
 
 ---
 
