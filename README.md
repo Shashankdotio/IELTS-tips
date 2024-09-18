@@ -9,6 +9,10 @@ If you have more time, I'd highly recommend starting with this **comprehensive 1
 
 ---
 
+#### ➡ Once you register for the exam, you'll receive a physical copy of the official IELTS preparation book via speed post or email. Simply going through that material should be sufficient to help you score reasonably well.
+
+---
+
 ### 🚀 Step 1: Mock Test First
 
 Before diving into preparation, I took a **mock test** to assess my level, understand where I stood, and identify which parts needed more attention. It also helped me get familiar with the user interface of the computer-based exam.
