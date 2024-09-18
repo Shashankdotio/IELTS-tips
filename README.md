@@ -11,7 +11,7 @@ If you have more time, I'd highly recommend starting with this **comprehensive 1
 
 ### 🚀 Step 1: Mock Test First
 
-Before diving into preparation, I took a **mock test** to assess my level, understand where I stood, and identify which parts needed more attention. It also helped me get familiar with the user interface of the exam.
+Before diving into preparation, I took a **mock test** to assess my level, understand where I stood, and identify which parts needed more attention. It also helped me get familiar with the user interface of the computer-based exam.
 
 **Try a mock test here:**
 > [📝 BestMyTest - IELTS Practice Test](https://www.bestmytest.com/ielts/practice-test)
