@@ -63,7 +63,7 @@ A day or two before the exam, I prepared some **key points** and versatile **sen
 ---
 
 ### 🎯 **My IELTS Score**
-My preparation lasted for 5 days, and I scored an **average of 7.5**:
+I began my preparation merely 5 days before the exam, and I scored an **average of 7.5**:
 
 - **Listening:** 8  
 - **Reading:** 7.5  
