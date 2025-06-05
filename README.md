@@ -85,7 +85,7 @@ In my experience, many students find the **reading** section to be challenging. 
 **If you have any doubts, feel free to DM me on my socials:**  
 <p align="left">
 <a href="https://www.linkedin.com/in/shashankkamble97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankkamble97" height="30" width="40" /></a>
-<a href="https://instagram.com/shashaaannk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashaaannk" height="30" width="40" /></a>
+
 
 ---
 
